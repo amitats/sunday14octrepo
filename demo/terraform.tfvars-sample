@@ -1,0 +1,5 @@
+aws_access_key = ""
+aws_secret_key = ""
+access_ip      = "0.0.0.0/0"
+public_sg = "sg-0e347642d23756373"
+public_subnet = "subnet-01ecfdfc3351c5ccf"
