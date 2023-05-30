@@ -22,3 +22,9 @@ variable "public_sg" {
 variable "public_subnet" {
   type    = string
 }
+
+variable "ami_id" {
+  description = "AMI ID for the instance"
+  type        = string
+  default     = "ami-0d527b8c289b4af7f"
+}
